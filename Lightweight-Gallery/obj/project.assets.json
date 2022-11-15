@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\Lightweight-Gallery\\Lightweight-Gallery\\Lightweight-Gallery.csproj",
+      "projectUniqueName": "C:\\Users\\ahmet\\OneDrive\\Belgeler\\Github\\Lightweight-Gallery\\Lightweight-Gallery\\Lightweight-Gallery.csproj",
       "projectName": "Lightweight-Gallery",
-      "projectPath": "C:\\Users\\ahmet\\source\\repos\\Lightweight-Gallery\\Lightweight-Gallery\\Lightweight-Gallery.csproj",
+      "projectPath": "C:\\Users\\ahmet\\OneDrive\\Belgeler\\Github\\Lightweight-Gallery\\Lightweight-Gallery\\Lightweight-Gallery.csproj",
       "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmet\\source\\repos\\Lightweight-Gallery\\Lightweight-Gallery\\obj\\",
+      "outputPath": "C:\\Users\\ahmet\\OneDrive\\Belgeler\\Github\\Lightweight-Gallery\\Lightweight-Gallery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
